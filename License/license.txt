@@ -1,0 +1,5 @@
+Jacob Dale Lietz is the sole and lawful owner of all code and files within the project.
+This code is not licensed for usage by any parties aside from those listed below
+1. Jacob Lietz
+2. Those users added to the private Github repository
+

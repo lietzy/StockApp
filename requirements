@@ -1,0 +1,3 @@
+##Requirements for PIP install.  Run the following command to insure pip is correct. python -m pip install -r requirements.txt ##3
+## to save all pip after work run python -m pip freeze > requirements.txt ###
+pytest

@@ -1,0 +1,2 @@
+py -m pip freeze > requirements
+py -m pip install -r requirements
